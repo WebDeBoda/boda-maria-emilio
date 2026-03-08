@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: Boda de María y José
+title: Boda de María y Emilio
 
 hero-section:
     title: ¡Ven y celebra con nosotros dos!
@@ -14,24 +14,24 @@ hero-section:
 
 mapa:
     title: Lugar de celebración
-    description: La ceremonia se celebrará en la <b>Parroquia Santa María de Caná</b> de Pozuelo de Alarcón y el posterior banquete tendrá lugar en <b>Finca Las Jarillas</b> en Madrid.
+    description: La ceremonia del Sacramento del Matrimonio se celebrará en la <b>Iglesia de la Santísima Trinidad</b> de Antequera, Málaga y el posterior banquete tendrá lugar en el <b>Hotel Finca Eslava</b>.
     locations:
-        - src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d878.184098662612!2d-3.7998433738211235!3d40.43457430474152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4186415716a5a1%3A0xba88876cc831beec!2sParroquia%20Santa%20Mar%C3%ADa%20de%20Can%C3%A1!5e1!3m2!1ses!2ses!4v1746205699524!5m2!1ses!2ses
-        - src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117182.18917262406!2d-3.8608358811636907!3d40.573086900000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422ad3a2de4be9%3A0x3bb426869bee2921!2sFinca%20Las%20Jarillas!5e1!3m2!1ses!2ses!4v1746205941306!5m2!1ses!2ses
+        - src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.800642916149!2d-4.56260482384464!3d37.02269367218443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd728fe231f2dedf%3A0x796ecf34252375aa!2sParroquia%20de%20La%20Santisima%20Trinidad%20Antequera!5e1!3m2!1ses!2ses!4v1772996917041!5m2!1ses!2ses
+        - src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.3113030626682!2d-4.564018323844211!3d37.03338797218157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd728fde25ef650b%3A0xd4c347d29d5af2ec!2sHotel%20Finca%20Eslava!5e1!3m2!1ses!2ses!4v1772996964997!5m2!1ses!2ses
 
 time-left:
     background-image: /galeria/cuenta_atras.jpg
-    wedding-date: "2026-05-11T13:00:00"
+    wedding-date: "2026-10-24T188:00:00"
 
 dia-boda:
     title: Día de la boda
     description: Estamos encantados de compartir contigo los detalles de nuestro día especial. A continuación, encontrarás el horario de la celebración y los momentos que hemos preparado con tanto cariño para disfrutar juntos.
     events:
         - title: Ceremonia
-          text: "La misa dará comienzo a las 13:30 en la Parroquia de Santa María de Caná en Pozuelo de Alarcón."
+          text: "La misa dará comienzo a las 18:00 en la glesia de la Santísima Trinidad en Antequera de Málaga."
           image: /galeria/dia-boda/iglesia.jpg
-        - title: Buses a la finca
-          text: "Al terminar la misa, habrá una flota de autobuses esperando para llevaros a todos a la finca."
+        - title: Buses al hotel
+          text: "Al terminar la misa, habrá una flota de autobuses esperando para llevaros a todos al hotel."
           image: /galeria/dia-boda/autobus.jpg
         - title: Aperitivo en jardines
           text: "Comenzaremos la celebración disfrutando de un aperitivo en los jardines de la finca."

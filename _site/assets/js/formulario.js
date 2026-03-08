@@ -95,7 +95,7 @@ function guardarInformacion(){
 
             }
 
-            const url = "https://script.google.com/macros/s/AKfycbwtXHJ72Vj5X6gSsPCW5Ka8c0iTOEJbibgfUjdL_uHYKZ9mDz9ln11vxTuFiNUgQVTh/exec";
+            const url = "https://script.google.com/macros/s/AKfycbyJTJNp7qxIMSyqQtvN8gaMLmiWP5OhbSxtiawU5nhDoYKcqjR8xZLJGVDu0f_IFVMs/exec";
 
             const params = new URLSearchParams({
                 invitados: JSON.stringify(invitados),
