@@ -3,8 +3,8 @@ layout: custom
 title: Boda de María y Emilio
 
 hero-section:
-    title: ¡Ven y celebra con nosotros dos!
-    subtitle: Estamos muy contentos de que estés aquí para poder contarte todos los detalles de nuestra boda.
+    title: ¡Nos casamos!
+    subtitle: Queremos compartir este regalo de Dios, que ha querido que su amor se haga carne en nosotros. ¡Os esperamos y pedimos vuestras oraciones!
     main-button:
         href: /paginas/formulario-registro.html
         text: Confirmar asistencia
@@ -21,7 +21,7 @@ mapa:
 
 time-left:
     background-image: /galeria/cuenta_atras.jpg
-    wedding-date: "2026-10-24T188:00:00"
+    wedding-date: "2026-10-24T18:00:00"
 
 dia-boda:
     title: Día de la boda
