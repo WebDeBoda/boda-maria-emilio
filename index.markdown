@@ -1,6 +1,4 @@
 ---
-185.199.108.153
-mariayemiliosecasan
 layout: custom
 title: Boda de María y Emilio
 
