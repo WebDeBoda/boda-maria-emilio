@@ -1,0 +1,47 @@
+- id: 1
+  nombre: "Hyatt Regency Hesperia Madrid"
+  estrellas: 5
+  web: "https://www.hyatt.com/hyatt-regency/en-US/madrm-hyatt-regency-hesperia-madrid"
+  distancia_metros: 750
+  distancia_tiempo: 11
+  codigo_descuento: "BODAMYJ"
+  descuento: "15% de descuento con el código BODAMYJ"
+  condiciones: 
+  anotaciones: 
+  imagen: "/galeria/hoteles/3.jpg"
+
+- id: 2
+  nombre: "Hotel NH Collection Madrid Abascal"
+  estrellas: 4
+  web: "https://www.nh-hotels.com/en/hotel/nh-collection-madrid-abascal"
+  distancia_metros: 1100
+  distancia_tiempo: 16
+  codigo_descuento: "BODAMYJ"
+  descuento: "15% de descuento con el código BODAMYJ"
+  condiciones: "En el fin de semana de la boda"
+  anotaciones: 
+  imagen: "/galeria/hoteles/2.png"
+
+- id: 3
+  nombre: "H-A San Mateo suites"
+  estrellas: 3
+  web: "https://sanmateo.ha-hoteles.com/es/"
+  distancia_metros: 900
+  distancia_tiempo: 14
+  codigo_descuento: "Dar como referencia nuestros nombres “Boda María y José”"
+  descuento: "Precios especiales"
+  condiciones: 
+  anotaciones: "Se aplicarán las siguientes tarifas, que <b>incluyen desayuno e IVA:</b><ul><li>Habitación doble: 120€</li><li>Habitación individual: 89€</li><li>Cama supletoria: 33€</li></ul>Para ello tendrás que reservar a través del siguiente enlace indicando <b><span class=\"text-primary\">“Boda María y José”</span></b> en el formulario."
+  imagen: "/galeria/hoteles/6.jpg"
+
+- id: 4
+  nombre: "Novotel Madrid Center"
+  estrellas: 4
+  web: "https://all.accor.com/hotel/9298/index.es.shtml"
+  distancia_metros: 500
+  distancia_tiempo: 7
+  codigo_descuento: 
+  descuento: 
+  condiciones: 
+  anotaciones: 
+  imagen: "/galeria/hoteles/5.jpg"
