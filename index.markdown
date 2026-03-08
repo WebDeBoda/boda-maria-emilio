@@ -1,4 +1,6 @@
 ---
+185.199.108.153
+mariayemiliosecasan
 layout: custom
 title: Boda de María y Emilio
 
@@ -34,7 +36,7 @@ dia-boda:
           text: "Al terminar la misa, habrá una flota de autobuses esperando para llevaros a todos al hotel."
           image: /galeria/dia-boda/autobus.jpg
         - title: Aperitivo en jardines
-          text: "Comenzaremos la celebración disfrutando de un aperitivo en los jardines de la finca."
+          text: "Comenzaremos la celebración disfrutando de un aperitivo en los jardines del Hotel Finca Eslava."
           image: /galeria/dia-boda/aperitivo.jpg
         - title: Banquete
           text: "Tras el aperitivo nos dirigiremos a la zona de banquete para disfrutar de la comida."

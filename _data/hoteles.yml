@@ -28,10 +28,10 @@
   web: "https://sanmateo.ha-hoteles.com/es/"
   distancia_metros: 900
   distancia_tiempo: 14
-  codigo_descuento: "Dar como referencia nuestros nombres “Boda María y José”"
+  codigo_descuento: "Dar como referencia nuestros nombres “Boda María y Emilio”"
   descuento: "Precios especiales"
   condiciones: 
-  anotaciones: "Se aplicarán las siguientes tarifas, que <b>incluyen desayuno e IVA:</b><ul><li>Habitación doble: 120€</li><li>Habitación individual: 89€</li><li>Cama supletoria: 33€</li></ul>Para ello tendrás que reservar a través del siguiente enlace indicando <b><span class=\"text-primary\">“Boda María y José”</span></b> en el formulario."
+  anotaciones: "Se aplicarán las siguientes tarifas, que <b>incluyen desayuno e IVA:</b><ul><li>Habitación doble: 120€</li><li>Habitación individual: 89€</li><li>Cama supletoria: 33€</li></ul>Para ello tendrás que reservar a través del siguiente enlace indicando <b><span class=\"text-primary\">“Boda María y Emilio”</span></b> en el formulario."
   imagen: "/galeria/hoteles/6.jpg"
 
 - id: 4
