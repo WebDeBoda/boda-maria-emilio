@@ -8,9 +8,6 @@ hero-section:
     main-button:
         href: /paginas/formulario-registro.html
         text: Confirmar asistencia
-    secondary-button:
-        href: \#lista-hoteles
-        text: Ver hoteles cercanos
 
 mapa:
     title: Lugar de celebración
