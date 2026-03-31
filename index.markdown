@@ -15,6 +15,7 @@ hero-section:
 mapa:
     title: Lugar de celebración
     description: La ceremonia del Sacramento del Matrimonio se celebrará en la <b>Iglesia de la Santísima Trinidad</b> de Antequera, Málaga y el posterior banquete tendrá lugar en el <b>Hotel Finca Eslava</b>.
+    description2: Dado que entre la Iglesia y el hotel hay apenas un paseo de 20 minutos andando no habrá servicio de autobuses.
     locations:
         - src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.800642916149!2d-4.56260482384464!3d37.02269367218443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd728fe231f2dedf%3A0x796ecf34252375aa!2sParroquia%20de%20La%20Santisima%20Trinidad%20Antequera!5e1!3m2!1ses!2ses!4v1772996917041!5m2!1ses!2ses
         - src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.3113030626682!2d-4.564018323844211!3d37.03338797218157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd728fde25ef650b%3A0xd4c347d29d5af2ec!2sHotel%20Finca%20Eslava!5e1!3m2!1ses!2ses!4v1772996964997!5m2!1ses!2ses
@@ -30,9 +31,6 @@ dia-boda:
         - title: Ceremonia
           text: "La misa dará comienzo a las 18:00 en la glesia de la Santísima Trinidad en Antequera de Málaga."
           image: /galeria/dia-boda/iglesia.jpg
-        - title: Buses al hotel
-          text: "Al terminar la misa, habrá una flota de autobuses esperando para llevaros a todos al hotel."
-          image: /galeria/dia-boda/autobus.jpg
         - title: Aperitivo en jardines
           text: "Comenzaremos la celebración disfrutando de un aperitivo en los jardines del Hotel Finca Eslava."
           image: /galeria/dia-boda/aperitivo.jpg
