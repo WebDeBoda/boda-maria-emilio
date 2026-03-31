@@ -41,10 +41,6 @@ dia-boda:
           text: "Esperamos que hayas cogido energía en la comida porque te queremos dándolo todo en la pista de baile."
           image: /galeria/dia-boda/fiesta-2.jpg
 
-hoteles:
-    title: Hoteles y apartamentos
-    description: Para facilitar la búsqueda de alojamiento, te compartimos una selección de hoteles que quedan cerca de los puntos de recogida de los autobuses. Además, en algunos de ellos hemos conseguido un descuento específico para el fin de semana de la boda.
-
 regalos:
     title: Participa en nuestra historia
     description: Esta sección es nuestra lista de bodas. Si quieres te la puedes saltar, porque para nosotros lo más importante es contar con tu presencia. Si de todas formas quieres hacernos un regalo para que empecemos nuestra aventura juntos, te dejamos algunas sugerencias.
@@ -57,5 +53,4 @@ regalos:
 {% include mapa.html %}
 {% include time-left.html %}
 {% include dia-boda.html %}
-{% include hoteles.html %}
 {% include regalos.html %}
