@@ -95,17 +95,24 @@ function guardarInformacion(){
 
             }
 
-            const url = "https://script.google.com/macros/s/AKfycbyJTJNp7qxIMSyqQtvN8gaMLmiWP5OhbSxtiawU5nhDoYKcqjR8xZLJGVDu0f_IFVMs/exec";
+            const url = "https://script.google.com/macros/s/AKfycbzwm8I3zuPiR5AIZFkd9Dgxwh4OYlrInTQf1nUIoBQPZn1G7saJ7ZhcKBfhuV2KYbI/exec";
 
-            const params = new URLSearchParams({
-                invitados: JSON.stringify(invitados),
-                respuestaCAPTCHA: respuestaCAPTCHA
-            }).toString();
-
-            // Send GET request to Google Apps Script
+            // Send POST request to Google Apps Script
             respuestasPeticiones.push(
-                fetch(`${url}?${params}`)
-                    .then(response => response.json())
+                fetch(url, {
+                    method: 'POST',
+                    redirect: 'follow',
+                    headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+                    body: JSON.stringify({
+                        invitados: invitados,
+                        respuestaCAPTCHA: respuestaCAPTCHA
+                    })
+                })
+                    .then(response => response.text())
+                    .then(text => {
+                        try { return JSON.parse(text); }
+                        catch (e) { throw new Error(text); }
+                    })
                     .then(data => {
                         if (data.status != 'success') {
                             throw new Error(`Error: ${data.message}`);
