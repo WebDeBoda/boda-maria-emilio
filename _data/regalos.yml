@@ -1,14 +1,7 @@
 - id: 1
-  nombre: "Misterio 1"
+  nombre: "Misterio Sagrada Familia"
   seccion: "Misterio"
-  coste: 4000
-  recaudado: 1000
+  coste: 395
+  recaudado: 0
   imagen: "/galeria/regalos/1.jpg"
-  descripcion: "XX"
-- id: 2
-  nombre: "Misterio 2"
-  seccion: "Misterio"
-  coste: 1000
-  recaudado: 130
-  imagen: "/galeria/regalos/2.png"
-  descripcion: "XX"
+  descripcion: "La Sagrada Familia es una hermosa representación de Jesús, María y José que transmite paz, amor y unidad. Sería un regalo muy especial para nuestro hogar, un recuerdo constante de la fe que queremos vivir y compartir en nuestro matrimonio."
